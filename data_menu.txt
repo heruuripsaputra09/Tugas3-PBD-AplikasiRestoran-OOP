@@ -1,0 +1,3 @@
+Makanan;Nasi goreng;200000.0;utama;berat
+Minuman;Es teh;10000.0;dessert;dingin
+Diskon;nasi goreng;100000.0;utama;0.1

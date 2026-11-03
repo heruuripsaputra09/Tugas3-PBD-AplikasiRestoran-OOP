@@ -1,0 +1,16 @@
+=== STRUK PESANAN BARU ===
+Nasi goreng 	 Rp200000.0
+Es teh 	 Rp10000.0
+---------------------------
+Subtotal    : Rp210000.0
+Total Bayar : Rp210000.0
+===========================
+
+=== STRUK PESANAN BARU ===
+Nasi goreng 	 Rp200000.0
+---------------------------
+Subtotal    : Rp200000.0
+Diskon      :-Rp20000.0
+Total Bayar : Rp180000.0
+===========================
+
